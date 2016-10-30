@@ -1,0 +1,2 @@
+# Econometrics
+Analyzing time series 
